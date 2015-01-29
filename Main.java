@@ -1,4 +1,4 @@
-package dk.lynspitti.Bank;
+package dk.lynspitti;
 
 import java.io.BufferedReader;
 import java.io.Console;

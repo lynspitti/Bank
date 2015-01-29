@@ -1,4 +1,4 @@
-package dk.lynspitti.Bank;
+package dk.lynspitti;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;

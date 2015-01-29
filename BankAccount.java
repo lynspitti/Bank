@@ -1,4 +1,4 @@
-package dk.lynspitti.Bank;
+package dk.lynspitti;
 
 import javax.swing.text.StyledEditorKit;
 import java.lang.reflect.Array;
